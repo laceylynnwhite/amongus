@@ -26,3 +26,34 @@ img {
     width: 100%;
     display: block;
 }
+
+h1 {
+  font-family: 'among-us', sans-serif;
+  font-weight: bold;
+  font-size: 80px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Amatic SC', sans-serif;
+  font-weight: bolder;
+  font-size: 45px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Amatic SC', sans-serif;
+  font-size: 45px;
+  text-decoration: underline;
+  font-weight: bold;
+  text-align: center;
+}
+
+#first {
+  color: red;
+}
+
+#second {
+  color: green;
+}
