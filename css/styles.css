@@ -150,3 +150,24 @@ CSS Styling
 #second {
   color: green;
 }
+
+.ghost {
+  position: absolute;
+  width: 300px;
+  top: 500px;
+  left: -50px;
+  animation-name: drive;
+  animation-duration: 18s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+
+@keyframes drive {
+  from {
+    transform: translateX(-200px);
+  }
+  to {
+    transform: translateX(2500px);
+  }
+}
