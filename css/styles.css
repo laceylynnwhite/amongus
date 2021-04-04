@@ -12,3 +12,17 @@
 body {
   background-image: url('../images/among-us.png');
 }
+
+main {
+  background-color: white;
+  opacity: 0.9;
+  padding: 20px 90px;
+  margin: 0 auto;
+    width: 55%
+}
+
+img {
+    margin: auto;
+    width: 100%;
+    display: block;
+}
