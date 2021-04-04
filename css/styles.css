@@ -3,3 +3,12 @@
   padding: 0;
   border: 0;
 }
+
+@font-face {
+  font-family: 'among-us';
+  src:url('../fonts/among-us.ttf'); format('truetype');
+}
+
+body {
+  background-image: url('../images/among-us.png');
+}
