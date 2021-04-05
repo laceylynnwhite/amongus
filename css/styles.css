@@ -177,6 +177,15 @@ CSS Styling
   float: right;
 }
 
+.report {
+  position: fixed; top: 1%; left: 1%;
+  width: 150px;
+}
+
+.press {
+  position: fixed; top: 1%; left: 1%;
+  width: 150px;
+}
 
 .top-section .hero {
   width: 550px;
