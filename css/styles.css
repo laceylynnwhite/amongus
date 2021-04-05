@@ -162,6 +162,15 @@ CSS Styling
   animation-timing-function: linear;
 }
 
+.standout {
+  font-size: 60px;
+  color: red;
+}
+
+.crew {
+  font-size: 60px;
+  color:cyan;
+}
 
 @keyframes drive {
   from {
